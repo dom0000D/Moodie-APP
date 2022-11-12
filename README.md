@@ -1,9 +1,7 @@
 # Moodie-App
-<p align= "center">
-  <img src=(https://user-images.githubusercontent.com/56475652/201466852-f22377c6-e2b9-43de-ac31-2d58cd7b0817.jpeg)/>
-</p>
 
-
+      ![m](https://user-images.githubusercontent.com/56475652/201466912-575bf606-77f8-4bdd-8727-cbe96d4cb732.jpeg)
+      
 App progettata e implementata durante il corso base iOS Apple.
 Sviluppato in Swift UI.
 Moodie è un'app che tramite una chat interattiva consiglia un film da vedere in base alle emozioni percepite tramite un algoritmo di ML.
