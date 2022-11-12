@@ -1,6 +1,6 @@
 # Moodie-App
-<p align="center">
-![m](https://user-images.githubusercontent.com/56475652/201466795-c21cda43-e9af-4aed-b1a1-ec9f958b55ce.jpeg)
+<p align= "center">
+  ![m](https://user-images.githubusercontent.com/56475652/201466852-f22377c6-e2b9-43de-ac31-2d58cd7b0817.jpeg)
 </p>
 
 
